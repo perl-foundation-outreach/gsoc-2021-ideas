@@ -23,6 +23,10 @@ Here's a list of project ideas proposed by the community:
 - [Raku: GTK4 bindings for Raku](raku/gtk-4 bindings.md), proposed by
   Richard Hainsworth.
 
+- [Randas: A Raku data analysis library](raku/randas.md), proposed
+  by [JJ Merelo](https://github.com/JJ)
+
+
 ## How to participate
 
 Each project should idea lists the mentors with their contact
