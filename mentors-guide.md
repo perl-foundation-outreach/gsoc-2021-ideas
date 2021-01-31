@@ -8,9 +8,24 @@ This is TPFs guide for people that want to mentor a project in the Perl / Raku e
 
 ## Adding ideas
 
-To add project ideas create a pull request for this repository. Just copy the [project idea template](project_template.md) into the perl5 or perl6 directory (or create a new one if it does not fit exactly in any of them) and fill it out. Use a separate file for each project idea. Please also add your project idea to the *Project ideas* list above, itemized. If you have an idea but no mentor or the idea is not entirely fleshed out, add it to the [incomplete-ideas.md](incomplete-ideas.md) file instead and try to complete it. Ideas without a mentor or otherwise not fleshed out will have to be removed before this list is submitted to Google.
+To add project ideas create a pull request for this repository. Just
+copy the [project idea template](project_template.md) into the [`perl`](perl/)
+or [`raku`](raku/) directory (or create a new one if it does not fit exactly in
+any of them) and fill it out. Use a separate file for each project
+idea. Please also add your project idea to the *Project ideas* list
+above, itemized. If you have an idea but no mentor or the idea is not
+entirely fleshed out, add it to
+the [incomplete-ideas.md](incomplete-ideas.md) file instead and try to
+complete it. Ideas without a mentor or otherwise not fleshed out will
+have to be removed before this list is submitted to Google. 
 
-Project ideas need to meet certain criteria described [on this Google page](https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list). When you use the template you should be good to go. If you have an idea and want to discuss it before adding anything, [discuss it here or add a new issue](https://github.com/perl-foundation-outreach/gsoc-2020-ideas/issues/1).
+Project ideas need to meet certain criteria
+described
+[on this Google page](https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list). When
+you use the template you should be good to go. If you have an idea and
+want to discuss it before adding
+anything,
+[discuss it here or add a new issue](https://github.com/perl-foundation-outreach/gsoc-2020-ideas/issues/1).
 
 
 ## Becoming a mentor
