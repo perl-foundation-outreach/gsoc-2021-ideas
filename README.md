@@ -67,6 +67,10 @@ Perl has its own IRC hosting site, with [this list of channels](http://www.irc.p
 
 - [2019](https://perl-foundation-outreach.github.io/ideas)
 
+## GSoC proposals that were not funded
+
+- [2020](https://perl-foundation-outreach.github.io/gsoc-2020-ideas)
+
 
 ## Mentors
 
