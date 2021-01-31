@@ -27,7 +27,9 @@ Divided by language, here they are
 
 ## How to participate
 
-Each project should idea lists the mentors with their contact information at the end.
+Each project should idea lists the mentors with their contact
+information at the end. Check out
+the [project template](project_template.md) for its general structure.
 
 
 ## General information on the initiative
