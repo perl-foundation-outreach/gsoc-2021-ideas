@@ -26,7 +26,9 @@ Here's a list of project ideas proposed by the community:
 - [Randas: A Raku data analysis library](raku/randas.md), proposed
   by [JJ Merelo](https://github.com/JJ)
 
-
+- [gRPC client for Raku](raku/gRPC.md), also proposed
+  by [JJ Merelo](https://github.com/JJ).
+  
 ## How to participate
 
 Each project should idea lists the mentors with their contact
