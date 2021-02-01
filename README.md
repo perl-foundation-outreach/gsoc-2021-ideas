@@ -18,7 +18,7 @@ This page lists project ideas for Perl, Raku and its related projects.
 
 Here's a list of project ideas proposed by the community:
 
-- [Raku: libgccjit backend for MoarVM's Just In Time compiler](raku/libccjig-backend.md),
+- [Raku: libgccjit backend for MoarVM's Just In Time compiler](raku/libgccjit-backend.md),
   proposed by Stefan Seifert.
 - [Raku: GTK4 bindings for Raku](raku/gtk-4 bindings.md), proposed by
   Richard Hainsworth.
