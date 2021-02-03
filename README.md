@@ -20,7 +20,7 @@ Here's a list of project ideas proposed by the community:
 
 - [Raku: libgccjit backend for MoarVM's Just In Time compiler](raku/libgccjit-backend.md),
   proposed by Stefan Seifert.
-- [Raku: GTK4 bindings for Raku](raku/gtk-4 bindings.md), proposed by
+- [Raku: GTK4 bindings for Raku](raku/gtk-4-bindings.md), proposed by
   Richard Hainsworth.
 
 - [Randas: A Raku data analysis library](raku/randas.md), proposed
@@ -29,7 +29,11 @@ Here's a list of project ideas proposed by the community:
 - [gRPC client for Raku](raku/gRPC.md), also proposed
   by [JJ Merelo](https://github.com/JJ).
 
-- [Supporting Pluggable Grammers with Guacamole](perl/Guacamole.md), proposed by [Sawyer X](https://github.com/xsawyerx).
+- [Supporting Pluggable Grammers with Guacamole](perl/Guacamole.md),
+  proposed by [Sawyer X](https://github.com/xsawyerx).
+  
+- [Tooling for testing and releasing Rakudo
+  Star](raku/rakudo-start-support.md), by [Patrick Spek](https://github.com/Tyil).
 
 ## How to participate
 
