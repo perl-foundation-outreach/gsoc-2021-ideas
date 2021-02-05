@@ -35,6 +35,8 @@ Here's a list of project ideas proposed by the community:
 - [Tooling for testing and releasing Rakudo
   Star](raku/rakudo-start-support.md), by [Patrick Spek](https://github.com/Tyil).
 
+- [Ravada Snapshots](perl/Ravada-Snapshots.md), by [Francesc Guasch](https://github.com/frankiejol).
+
 ## How to participate
 
 Each project should idea lists the mentors with their contact
