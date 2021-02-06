@@ -57,5 +57,6 @@ Possible mentors
 
 - JJ Merelo (jjmerelo@gmail.com, [GitHub](https://github.com/JJ)),
   jmerelo on Freenode.
-
+- Donald Hunter (donald.hunter@gmail.com, [GitHub](https://github.com/donaldh)),
+  donaldh on Freenode.
 
