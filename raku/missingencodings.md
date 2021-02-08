@@ -169,4 +169,4 @@ I think this is a medium hard project, as many encodings *are* already supported
 Possible mentors
 ----------------
 
-Not me.
+Elizabeth Mattijsen, Jonathan Worthington, Daniel Green, Samantha McVey
