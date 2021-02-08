@@ -20,6 +20,7 @@ Here's a list of project ideas proposed by the community:
 
 - [Raku: libgccjit backend for MoarVM's Just In Time compiler](raku/libgccjit-backend.md),
   proposed by Stefan Seifert.
+
 - [Raku: GTK4 bindings for Raku](raku/gtk-4-bindings.md), proposed by
   Richard Hainsworth.
 
@@ -34,6 +35,8 @@ Here's a list of project ideas proposed by the community:
   
 - [Tooling for testing and releasing Rakudo
   Star](raku/rakudo-start-support.md), by [Patrick Spek](https://github.com/Tyil).
+
+- [Raku Inline::Python update](raku/Inline::Python-Update.md), proposed by Stefan Seifert
 
 ## How to participate
 
