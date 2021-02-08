@@ -34,7 +34,7 @@ Here's a list of project ideas proposed by the community:
   proposed by [Sawyer X](https://github.com/xsawyerx).
   
 - [Tooling for testing and releasing Rakudo
-  Star](raku/rakudo-start-support.md), by [Patrick Spek](https://github.com/Tyil).
+  Star](raku/rakudo-star-support.md), by [Patrick Spek](https://github.com/Tyil).
 
 - [Raku Inline::Python (3) update](raku/Inline::Python-Update.md) proposed by Stefan Seifert.
 
