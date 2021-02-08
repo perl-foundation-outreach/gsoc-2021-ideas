@@ -18,7 +18,7 @@ Port the architectural advantages of Inline::Perl5 to Inline::Python, most notab
 Required skills
 ---------------
 
-A reasonable familiarity with Raku and Python and maybe C and an interest in how languages actually work.
+A reasonable familiarity with Raku, Python 3 and maybe C and an interest in how languages actually work.
 
 Rating
 ------
