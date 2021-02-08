@@ -36,7 +36,9 @@ Here's a list of project ideas proposed by the community:
 - [Tooling for testing and releasing Rakudo
   Star](raku/rakudo-start-support.md), by [Patrick Spek](https://github.com/Tyil).
 
-- [Raku Inline::Python update](raku/Inline::Python-Update.md), proposed by Stefan Seifert
+- [Raku Inline::Python (3) update](raku/Inline::Python-Update.md) proposed by Stefan Seifert
+
+- [Raku Add missing encodings to MoarVM](missingencodings.md) proposed by Elizabeth Mattijsen
 
 ## How to participate
 
