@@ -30,9 +30,9 @@ Here's a list of project ideas proposed by the community:
 - [gRPC client for Raku](raku/gRPC.md), also proposed
   by [JJ Merelo](https://github.com/JJ).
 
-- [Supporting Pluggable Grammers with Guacamole](perl/Guacamole.md),
+- [Supporting Pluggable Grammars with Guacamole](perl/Guacamole.md),
   proposed by [Sawyer X](https://github.com/xsawyerx).
-  
+
 - [Tooling for testing and releasing Rakudo
   Star](raku/rakudo-star-support.md), by [Patrick Spek](https://github.com/Tyil).
 
