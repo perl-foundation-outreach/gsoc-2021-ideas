@@ -16,7 +16,7 @@ It also implements the debug adapater protocol for debugging Perl code
 
 Expected outcomes
 -----------------
-* Documenation improvements:
+* Documentation improvements:
  * docs for beginners and usage examples
  * how to use Perl::LanguageServer with different Editors/IDEs (Vim, Emacs, Atom, Eclipse, ...)
 * Testing
@@ -32,8 +32,8 @@ Expected outcomes
 
 Required skills
 ---------------
-* Good Knowledge of Perl
-* Knowledge of AnyEvent, Coro, Moose and Perl debugger are helpfull
+* Good knowledge of Perl
+* Knowledge of AnyEvent, Coro, Moose and Perl debugger are helpful
 
 Rating
 ------
