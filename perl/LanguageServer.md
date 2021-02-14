@@ -9,6 +9,10 @@ This is a Language Server and Debug Protocol Adapter for Perl
 It implements the Language Server Protocol which provides
 syntax-checking, symbol search, etc. Perl to various editors, for
 example Visual Stuido Code or Atom.
+(https://microsoft.github.io/language-server-protocol/specifications/specification-current/)
+
+It also implements the debug adapater protocol for debugging Perl code
+(https://microsoft.github.io/debug-adapter-protocol/specification)
 
 Expected outcomes
 -----------------
@@ -17,9 +21,9 @@ Expected outcomes
  * how to use Perl::LanguageServer with different Editors/IDEs (Vim, Emacs, Atom, Eclipse, ...)
 * Testing
 * Implementation of missing LanguageServer features:
-  * Call graph (FIXME: What's a call graph?)
-  * Auto completion
-  * Hover: function help and signature help
+  * Call hierarchy (https://microsoft.github.io/language-server-protocol/specifications/specification-current/#textDocument_prepareCallHierarchy)
+  * Auto completion (https://microsoft.github.io/language-server-protocol/specifications/specification-current/#textDocument_completion)
+  * Hover: function help and signature help (https://microsoft.github.io/language-server-protocol/specifications/specification-current/#textDocument_hover)
   * Display of help from perldocs for statements, special variables and modules
 * Improvements/fixes for the debugger
   * Variable display (currently not all expressions can be displayed)
@@ -28,13 +32,14 @@ Expected outcomes
 
 Required skills
 ---------------
-FIXME: Required or prefered skills the student should have to be able to tackle this project.
+* Good Knowledge of Perl
+* Knowledge of AnyEvent, Coro, Moose and Perl debugger are helpfull
 
 Rating
 ------
-FIXME: If possible: easy, medium, hard
+medium to high
 
 Possible mentors
 ----------------
-* Gerald Richter (FIXME - please add your preferred contact details)
+* Gerald Richter (richter@ecos.de)
 * Andrew Solomon (andrew@geekuni.com)
