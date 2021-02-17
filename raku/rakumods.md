@@ -32,4 +32,4 @@ In addition, a developer may want Pod information about the functions/methods/cl
 This is a medium hard project. The coding and algorithms will be simple. Most of the difficulty will be in assembling an undertanding of the Respository management system from existing core modules.
 
 ## Mentors
-JJ Merelo, Richard Hainsworth (rnhainsworth@gmail.com)
+JJ Merelo, Richard Hainsworth (rnhainsworth@gmail.com), tonyo
