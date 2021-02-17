@@ -29,6 +29,7 @@ Expected outcomes
   * Variable display (currently not all expressions can be displayed)
   * Exception breakpoints
   * Data breakpoints
+* Make Perl::LanguageServer correctly working on windows
 
 Required skills
 ---------------
