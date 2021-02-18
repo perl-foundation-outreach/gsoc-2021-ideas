@@ -36,6 +36,11 @@ a non-privileged user and interacts with the end users via a web interface.
 The backend receives requests from the frontend and performs privileged operations
 in the host operative system to manage the virtual machines.
 
+We created a detailed list of tasks to complete. It is understable not all of
+them will be finished. We will help the student complete a reasonable amount of
+the job but we understand it has many layers of difficulty and some parts of this
+can be challenging.
+
 - Define database tables so snapshots can be stored and shown in the web
 frontend.
 - Create new methods for the virtual machine classes to create and revert snapshots.
