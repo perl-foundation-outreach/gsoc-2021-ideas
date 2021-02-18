@@ -44,6 +44,8 @@ Here's a list of project ideas proposed by the community:
 
 - [Raku Module Chain Introspection](raku/rakumods.md) proposed by JJ Merelo, Richard Hainsworth.
 
+- [Ravada Snapshots](perl/Ravada-Snapshots.md), by [Francesc Guasch](https://github.com/frankiejol).
+
 ## How to participate
 
 Each project should idea lists the mentors with their contact
