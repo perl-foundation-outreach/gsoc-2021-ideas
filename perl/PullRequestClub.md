@@ -1,4 +1,4 @@
-Pull Request Club: Stats
+Pull Request Club
 ======================================================
 
 Description
