@@ -46,6 +46,8 @@ Here's a list of project ideas proposed by the community:
 
 - [Ravada Snapshots](perl/Ravada-Snapshots.md), by [Francesc Guasch](https://github.com/frankiejol).
 
+- [Pull Request Club](perl/PullRequestClub.md), by [Kivanc Yazan](https://github.com/kyzn).
+
 ## How to participate
 
 Each project should idea lists the mentors with their contact
